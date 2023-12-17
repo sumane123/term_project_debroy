@@ -1,0 +1,179 @@
+/* Global styles */
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  color: #fff;
+  background-color: #0d0d0d;
+  margin: 0;
+}
+
+/* Main content styles */
+main {
+  padding: 40px;
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #0d0d0d;
+}
+
+/* Section styles */
+section {
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: #64ffda;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* Carousel styles */
+.carousel-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.carousel {
+  position: relative;
+  overflow: hidden;
+}
+
+.carousel-item {
+  width: 100%;
+  display: none;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: auto;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+label {
+  margin-bottom: 8px;
+}
+
+input,
+textarea {
+  padding: 10px;
+  margin-bottom: 16px;
+}
+
+button {
+  padding: 12px;
+  background-color: #64ffda;
+  color: #0d0d0d;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #0d0d0d;
+  color: #64ffda;
+}
+/* Global styles */
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  color: #fff;
+  background-color: #0d0d0d;
+  margin: 0;
+}
+
+/* Main content styles */
+main {
+  padding: 40px;
+}
+
+/* Footer styles */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #4f4848;
+}
+
+/* Section styles */
+section {
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: #64ffda;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* Carousel styles */
+.carousel-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.carousel {
+  position: relative;
+  overflow: hidden;
+}
+
+.carousel-item {
+  width: 100%;
+  display: none;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: auto;
+}
+
+/* Contact form styles */
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+label {
+  margin-bottom: 8px;
+}
+
+input,
+textarea {
+  padding: 10px;
+  margin-bottom: 16px;
+}
+
+button {
+  padding: 12px;
+  background-color: #64ffda;
+  color: #0d0d0d;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #0d0d0d;
+  color: #64ffda;
+}
